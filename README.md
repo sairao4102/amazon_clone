@@ -4,7 +4,7 @@ A responsive clone of the Amazon homepage, built using HTML and CSS. This projec
 
 ## 🔥 Features
 
-- Responsive layout (desktop and mobile)
+- Responsive layout (desktop )
 - Top navigation bar
 - Search bar and cart icon
 - Product sections with images
